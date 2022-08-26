@@ -1,0 +1,8 @@
+Python version 3.9 or higher
+
+Libraries:
+
+pip install pandas
+pip install pulp
+pip install plotly
+pip install dash
