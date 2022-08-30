@@ -1,4 +1,4 @@
-# resource-optimization-model-for-redistributing-hospital-workers
+# Resource Optimization Model for Redistributing Health Care Staff in Washington
 
 A resource optimization model created using python to redistribute health care staff across hospitals in Washington state so that each hospital in meets has relatively similar population-health care staff ratios.
 
