@@ -1,0 +1,9 @@
+The current model is run using the data in the Modified_Data file, which is located in the datasets folder
+
+To input your own values, navigate to the variables section of the file and replace the following:
+1. Population - input an array containing the population of the zipcode that each hospital is located in
+2. Current_Staff - input an array containing the current amount of healthcare staff working at each hospital
+3. Ratio - input the desired population-to-healthcare-staff ratio
+4. Max_Set - input the sum of all the values in the Current_Staff Array
+
+Then run the model and you will see the optimized staff members shortly.
