@@ -10,6 +10,9 @@ The results of this model were compared to the results of ABDULSABOOR1995's mode
 
 
 # Credits
+
 Project is based on https://github.com/ABDULSABOOR1995/Optimization-of-Healthcare-Network-Facility-Staff
+
 Visualization portion of the project utilizes https://github.com/plotly/dash
+
 Optimization model built with PuLp: https://pypi.org/project/PuLP/
